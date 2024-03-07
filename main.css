@@ -58,6 +58,7 @@ form button {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
+    margin-bottom: 8px;
 }
 
 form button:hover{
